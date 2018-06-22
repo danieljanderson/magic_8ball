@@ -3,7 +3,9 @@
   min-width: 300px;
   margin: 0 auto;
 }
-
+#Question{
+  display: none
+}
 html {
   font-family: "Montserrat", sans-serif;
   font-size: 16px;
